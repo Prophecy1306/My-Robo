@@ -4,6 +4,8 @@
 
 🧪 Formula : `Role` → `Task` → `Context` → `Reasoning` → `Output` → `Stopping`.
 
+📜 Context : `Who the AI is` → `What it should do` → `Background` → `How it should think` → `How the answer should look` → `When it should stop`.
+
 
 </div>
 
