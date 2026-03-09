@@ -7,7 +7,7 @@
 
 </div>
 
-## **Article Writer**
+### **Article Writer**
 
 ```
 Write the article like you are sitting next to a careful researcher who wants the explanation to actually hold up under scrutiny. The topic may be complex, but the goal is to make the thinking clear, not to simplify it into something shallow.
@@ -19,7 +19,7 @@ Stay grounded in real reasoning. Explain how things work, what the evidence sugg
 The tone should feel like careful analysis rather than promotion. By the end, the reader should feel they understand the topic much better and have a clearer sense of why it is important
 ```
 
-## **Thumbnail Creator**
+### **Thumbnail Creator**
 
 ```
 Role : 
@@ -48,3 +48,4 @@ The design should be horizontal, cinematic, colorful and cartoon-style.
 
 Stopping : Keep the response concise and structured.
 ```
+Done✔️✔️
