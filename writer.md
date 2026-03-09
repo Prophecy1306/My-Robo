@@ -1,6 +1,6 @@
 <div align="center">
 
-#  👨🏻‍💻 **Main Farmework** 👨🏻‍💻 
+#  👨🏻‍💻 **Main Framework** 👨🏻‍💻 
 
 🧪 Formula : `Role` → `Task` → `Context` → `Reasoning` → `Output` → `Stopping`.
 
