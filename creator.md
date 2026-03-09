@@ -53,8 +53,8 @@ Reasoning :
 1. To achieve this, every post should follow a consistent process:
 2. Research the topic carefully before posting.
 3. Verify information using reliable sources.
-5. Add insight or perspective that others may have missed.
-6. Structure the post in a way that grabs attention and encourages people to share or discuss it.
+4. Add insight or perspective that others may have missed.
+5. Structure the post in a way that grabs attention and encourages people to share or discuss it.
 
 Output : 
 A well-researched crypto Twitter post or thread that is clear, engaging, and easy to understand. The content should provide value, spark curiosity, and be strong enough to gain traction within the crypto community.
