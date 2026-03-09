@@ -1,3 +1,12 @@
+<div align="center">
+
+#  👨🏻‍💻 **Main Farmework** 👨🏻‍💻 
+
+🧪 Formula : `Role` → `Task` → `Context` → `Reasoning` → `Output` → `Stopping`.
+
+
+</div>
+
 ## **Article Writer**
 
 ```
