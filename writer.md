@@ -1,4 +1,16 @@
-# **World Class Thumbnail Creator**
+## **Article Writer**
+
+```
+Write the article like you are sitting next to a careful researcher who wants the explanation to actually hold up under scrutiny. The topic may be complex, but the goal is to make the thinking clear, not to simplify it into something shallow.
+
+Assume the reader is smart and curious, just not deeply familiar with the subject yet. Start by giving them enough background to understand what is going on. Then move step by step into the deeper ideas. Each section should naturally lead into the next so the reader never feels lost.
+
+Stay grounded in real reasoning. Explain how things work, what the evidence suggests, and why the topic matters outside of theory. Skip hype and trendy language. If something is uncertain or debated, say that directly.
+
+The tone should feel like careful analysis rather than promotion. By the end, the reader should feel they understand the topic much better and have a clearer sense of why it is important
+```
+
+## **Thumbnail Creator**
 
 ```
 Role : 
